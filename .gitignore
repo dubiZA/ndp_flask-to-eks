@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# VS Code
+# My stuff
+.env_file
 .vscode
