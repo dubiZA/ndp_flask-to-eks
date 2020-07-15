@@ -129,5 +129,4 @@ dmypy.json
 .pyre/
 
 # My stuff
-.env_file
 .vscode
